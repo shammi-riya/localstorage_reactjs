@@ -1,0 +1,12 @@
+.card{
+    background-color: aqua;
+    padding: 20px;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
